@@ -1,0 +1,11 @@
+{
+    "DruidAuthenticateResource": "/api/services/app/WebAPIService/ExternalAuthenticate",
+    "DruidStartFlowResource": "/api/services/app/Flow/StratFlow",
+    "UsernameOrEmailAddress": "admin",
+    "Password": "Apr@2016",
+    "ErrorFlowId": "",
+    "TaskIdentifier": "ResponseFlowID",
+    "ResponseEntityName": "Weather",
+	"DruidBaseURL": "https://www.community.druidplatform.com",
+	"Tenant": "kamalvin999",
+}
